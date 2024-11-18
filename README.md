@@ -1,7 +1,7 @@
 # 🌟 160 Days of DSA with GeeksforGeeks 🚀  
 
 [![DSA Progress](https://img.shields.io/badge/DSA-Progress-green)](#)  
-[![Languages](https://img.shields.io/badge/Language-Python%20%7C%20Java%20%7C%20C%2B%2B-blue)](#)  
+[![Languages](https://img.shields.io/badge/LaguageJava%20%7C%20C%2B%2B-blue)](#)  
 [![License](https://img.shields.io/github/license/amitkumardemo/160-days-of-dsa)](#)
 
 ---
