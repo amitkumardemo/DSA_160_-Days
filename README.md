@@ -31,17 +31,17 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 | **Phase 5**        | Advanced Topics (Tries, Segment Trees) | Days 141-160       |  
 
 ---
-
 ## 📈 **Progress Tracker**
 
-| **Day** | **Topic**             | **Problems Solved** | **Notes/Comments**                 |  
-|---------|-----------------------|---------------------|------------------------------------|  
-| 1       | Arrays Basics         | 5 Easy Problems     | Focused on linear traversal       |  
-| 2       | Arrays Basics         | 5 Medium Problems   | Practiced prefix sums             |  
-| 3       | Strings Basics        | 4 Easy Problems     | Solved basic string manipulations |  
-| ...     | ...                   | ...                 | ...                                |  
+| **Day** | **Topic**                | **Problems Solved**          | **Notes/Comments**                      |  
+|---------|--------------------------|------------------------------|-----------------------------------------|  
+| 1       | GfG 160 - Second Largest  | Day_1_Second Largest  | Solved the problem of finding second largest element in an array. |  
+| 2       | GfG 160 - Move Zeros to End | Day_2_Move All Zeroes to End | Implemented moving all zeroes to the end of the array. |  
+| 3       | GfG 160 - Reverse Array  | Day_3_Reverse an Array | Reversed the array in-place without using extra space. |  
+| 4       | GfG 160 - Rotate Array   | Day_4_Rotate Array    | Learned and implemented array rotation by d elements. |  
+| 5       | GfG 160 - Next Permutation |Day_5_Next Permutation | Implemented next lexicographical permutation of an array. |  
 
-➡️ **[View Full Progress](https://www.geeksforgeeks.org/user/lbgofficicwfy/)**  
+➡️ **[View Full Progress](https://www.geeksforgeeks.org/user/lbgofficicwfy/)**
 
 ---
 
