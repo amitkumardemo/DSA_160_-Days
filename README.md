@@ -39,7 +39,11 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 | 2       | GfG 160 - Move Zeros to End | Day_2_Move All Zeroes to End | Implemented moving all zeroes to the end of the array. |  
 | 3       | GfG 160 - Reverse Array  | Day_3_Reverse an Array | Reversed the array in-place without using extra space. |  
 | 4       | GfG 160 - Rotate Array   | Day_4_Rotate Array    | Learned and implemented array rotation by d elements. |  
-| 5       | GfG 160 - Next Permutation |Day_5_Next Permutation | Implemented next lexicographical permutation of an array. |  
+| 5       | GfG 160 - Next Permutation |Day_5_Next Permutation | Implemented next lexicographical permutation of an array. |
+| 6 | GfG 160 - Majority Element II | Day_6_Majority_Element_II | Identified elements appearing more than n/3 times in an array using the Boyer-Moore Voting Algorithm. |
+
+
+
 
 ➡️ **[View Full Progress](https://www.geeksforgeeks.org/user/lbgofficicwfy/)**
 
