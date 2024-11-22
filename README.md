@@ -31,19 +31,38 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 | **Phase 5**        | Advanced Topics (Tries, Segment Trees) | Days 141-160       |  
 
 ---
+# Progress Tracker: GeeksforGeeks GfG 160 Series
+
+This repository tracks my progress in solving problems from the GeeksforGeeks GfG 160 series. Below is a log of the problems solved, with brief descriptions of the approaches used and the learning outcomes.
+
 ## 📈 **Progress Tracker**
 
-| **Day** | **Topic**                | **Problems Solved**          | **Notes/Comments**                      |  
-|---------|--------------------------|------------------------------|-----------------------------------------|  
-| 1       | GfG 160 - Second Largest  | Day_1_Second Largest  | Solved the problem of finding second largest element in an array. |  
-| 2       | GfG 160 - Move Zeros to End | Day_2_Move All Zeroes to End | Implemented moving all zeroes to the end of the array. |  
-| 3       | GfG 160 - Reverse Array  | Day_3_Reverse an Array | Reversed the array in-place without using extra space. |  
-| 4       | GfG 160 - Rotate Array   | Day_4_Rotate Array    | Learned and implemented array rotation by d elements. |  
-| 5       | GfG 160 - Next Permutation |Day_5_Next Permutation | Implemented next lexicographical permutation of an array. |
-| 6 | GfG 160 - Majority Element II | Day_6_Majority_Element_II | Identified elements appearing more than n/3 times in an array using the Boyer-Moore Voting Algorithm. |
-|7 | GFG 160 - Stock Buy and Sell – Multiple Transaction Allowed  | Day_7_Stock Buy and Sell – Multiple Transaction Allowed |  The cost of stock on each day is given in an array price[]. Each day you may decide to either buy or sell the stock at price[i], you can even buy and sell the stock on the same day. Find the maximum profit that you can get. |
+| **Day** | **Topic**                                     | **Problems Solved**                      | **Notes/Comments**                                                                                        |
+|---------|-----------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 1       | GfG 160 - Second Largest                      | Day_1_Second_Largest                     | Solved the problem of finding the second largest element in an array.                                      |
+| 2       | GfG 160 - Move Zeros to End                   | Day_2_Move_All_Zeroes_to_End             | Implemented moving all zeroes to the end of the array without changing the relative order of other elements.|
+| 3       | GfG 160 - Reverse Array                       | Day_3_Reverse_an_Array                   | Reversed the array in-place without using extra space.                                                     |
+| 4       | GfG 160 - Rotate Array                        | Day_4_Rotate_Array                       | Learned and implemented array rotation by `d` elements, utilizing an efficient O(n) approach.              |
+| 5       | GfG 160 - Next Permutation                     | Day_5_Next_Permutation                    | Implemented next lexicographical permutation of an array using a systematic approach.                     |
+| 6       | GfG 160 - Majority Element II                 | Day_6_Majority_Element_II                | Identified elements appearing more than `n/3` times in an array using the Boyer-Moore Voting Algorithm.    |
+| 7       | GfG 160 - Stock Buy and Sell – Multiple Transaction Allowed | Day_7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed | Maximized profit by performing multiple buy and sell operations using a greedy approach.                    |
+| 8       | GfG 160 - Stock Buy and Sell – Max One Transaction Allowed | Day_8_Stock_Buy_and_Sell_Max_One_Transaction_Allowed | Implemented a solution to maximize profit with at most one buy and sell transaction using dynamic programming. |
 
-|8 | GFG 160 - Stock Buy and Sell – Max one Transaction Allowed | Day_8_Stock Buy and Sell – Max one Transaction Allowed | The task is to find the maximum profit possible by buying and selling the stocks on different days when at most one transaction is allowed|
+---
+
+## ✨ **Key Learning Outcomes**
+
+- **Array Manipulation:** Enhanced skills in rotating, reversing, and performing efficient operations on arrays.
+- **Algorithm Design:** Focused on algorithms such as Boyer-Moore for majority element identification and greedy approaches for stock trading problems.
+- **Dynamic Programming:** Applied dynamic programming to problems like the stock trading with one transaction allowed.
+
+---
+
+## 📜 **About GfG 160 Series**
+
+The GfG 160 Series is a collection of problems curated by GeeksforGeeks, designed to improve problem-solving skills in algorithms and data structures. Each problem is tackled systematically to build a deeper understanding of core concepts and their applications.
+
+Feel free to check out my progress and solutions for each of these problems in the individual files for more in-depth details and code snippets.
 
                     
 
