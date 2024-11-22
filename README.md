@@ -41,6 +41,11 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 | 4       | GfG 160 - Rotate Array   | Day_4_Rotate Array    | Learned and implemented array rotation by d elements. |  
 | 5       | GfG 160 - Next Permutation |Day_5_Next Permutation | Implemented next lexicographical permutation of an array. |
 | 6 | GfG 160 - Majority Element II | Day_6_Majority_Element_II | Identified elements appearing more than n/3 times in an array using the Boyer-Moore Voting Algorithm. |
+|7 | GFG 160 - Stock Buy and Sell – Multiple Transaction Allowed  | Day_7_Stock Buy and Sell – Multiple Transaction Allowed |  The cost of stock on each day is given in an array price[]. Each day you may decide to either buy or sell the stock at price[i], you can even buy and sell the stock on the same day. Find the maximum profit that you can get. |
+
+|8 | GFG 160 - Stock Buy and Sell – Max one Transaction Allowed | Day_8_Stock Buy and Sell – Max one Transaction Allowed | The task is to find the maximum profit possible by buying and selling the stocks on different days when at most one transaction is allowed|
+
+                    
 
 
 
