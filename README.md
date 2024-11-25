@@ -49,6 +49,7 @@ This repository tracks my progress in solving problems from the GeeksforGeeks Gf
 | 8       | GfG 160 - Stock Buy and Sell – Max One Transaction Allowed | Day_8_Stock_Buy_and_Sell_Max_One_Transaction_Allowed | Implemented a solution to maximize profit with at most one buy and sell transaction using dynamic programming. |
 |9 | GFG 160 - Minimize the Heights II | Day_9_Minimize the Heights II | Find out the minimum possible difference between the height of the shortest and tallest towers after you have modified each tower.|
 |10 | GFG 160 - Kadane's Algorithm | Day_10_Kadane's Algorithm | Given an integer array arr[]. You need to find and return the maximum sum possible from all the subarrays.|
+|11| GFG 160 - Maximum Product Subarray | Day_11_Maximum Product Subarray | Given an array arr[] that contains positive and negative integers (may contain 0 as well). Find the maximum product that we can get in a subarray of arr.|
 
 ---
 
