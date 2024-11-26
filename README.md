@@ -22,13 +22,28 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 
 ## 🗺️ **Roadmap**
 
-| **Phase**          | **Topics Covered**                  | **Timeline**       |  
-|---------------------|-------------------------------------|--------------------|  
-| **Phase 1**        | Arrays, Strings, and Basic Math     | Days 1-30          |  
-| **Phase 2**        | Hashing, Linked Lists, Stacks, Queues | Days 31-60         |  
-| **Phase 3**        | Trees, Graphs, and Recursion        | Days 61-100        |  
-| **Phase 4**        | Dynamic Programming and Greedy      | Days 101-140       |  
-| **Phase 5**        | Advanced Topics (Tries, Segment Trees) | Days 141-160       |  
+| **Phase**          | **Topics Covered**                        | **Timeline**       |  
+|---------------------|-------------------------------------------|--------------------|  
+| **Phase 1**        | Arrays: Lay the Foundation                | Days 1–13          |  
+| **Phase 2**        | Strings: Master Text Processing           | Days 14–20         |  
+| **Phase 3**        | Sorting: Organize Data Efficiently        | Days 21–27         |  
+| **Phase 4**        | Searching: Find What You Need Fast        | Days 28–35         |  
+| **Phase 5**        | Matrix: Unlock the Power of 2D Data       | Days 36–41         |  
+| **Phase 6**        | Hashing: Unlock Data Relationships        | Days 42–49         |  
+| **Phase 7**        | Two Pointer Technique: Simplify Problems  | Days 50–61         |  
+| **Phase 8**        | Prefix Sum: Solve Cumulative Problems     | Days 62–66         |  
+| **Phase 9**        | Linked List: Manage Dynamic Data          | Days 67–76         |  
+| **Phase 10**       | Backtracking: Recursive Problem-Solving   | Days 77–79         |  
+| **Phase 11**       | Trees: Build and Traverse Hierarchical Data | Days 80–92       |  
+| **Phase 12**       | Heap: Manage Prioritized Data             | Days 93–96         |  
+| **Phase 13**       | Stack: Simplify Operations                | Days 97–105        |  
+| **Phase 14**       | Queue and Deque: FIFO Operations          | Days 106–107       |  
+| **Phase 15**       | Dynamic Programming (DP): Optimize Problems | Days 108–133    |  
+| **Phase 16**       | Greedy: Make Optimal Choices              | Days 134–137       |  
+| **Phase 17**       | Graphs: Explore Connectivity and Paths    | Days 138–152       |  
+| **Phase 18**       | Tries: Explore Prefix Trees               | Days 153–155       |  
+| **Phase 19**       | Bit Manipulation: Simplify Binary Operations | Days 156–160   |  
+  
 
 ---
 # Progress Tracker: GeeksforGeeks GfG 160 Series
