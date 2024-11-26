@@ -50,6 +50,13 @@ This repository tracks my progress in solving problems from the GeeksforGeeks Gf
 |9 | GFG 160 - Minimize the Heights II | Day_9_Minimize the Heights II | Find out the minimum possible difference between the height of the shortest and tallest towers after you have modified each tower.|
 |10 | GFG 160 - Kadane's Algorithm | Day_10_Kadane's Algorithm | Given an integer array arr[]. You need to find and return the maximum sum possible from all the subarrays.|
 |11| GFG 160 - Maximum Product Subarray | Day_11_Maximum Product Subarray | Given an array arr[] that contains positive and negative integers (may contain 0 as well). Find the maximum product that we can get in a subarray of arr.|
+|12| GFG - 160 - Max Circular Subarray Sum | Day_12_Max Circular Subarray Sum |Given an array of integers arr[] in a circular fashion. Find the maximum subarray sum that we can get if we assume the array to be circular.| 
+
+
+
+
+
+
 
 ---
 
