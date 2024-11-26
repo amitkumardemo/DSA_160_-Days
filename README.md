@@ -64,6 +64,7 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 | 10      | Kadane's Algorithm                            | Day_10_Kadane's_Algorithm                | Found the maximum sum possible from all the subarrays using Kadane's algorithm.                            | [Problem Link](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)                 |
 | 11      | Maximum Product Subarray                     | Day_11_Maximum_Product_Subarray          | Found the maximum product in a subarray, accounting for positive, negative integers, and zero.             | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)                 |
 | 12      | Max Circular Subarray Sum                    | Day_12_Max_Circular_Subarray_Sum         | Found the maximum subarray sum considering the array as circular.                                          | [Problem Link](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1)         |
+|13 | Smallest Positive Missing Number | Day_13_Smallest Positive Missing Number | ou are given an integer array arr[]. Your task is to find the smallest positive number missing from the array. | [Problem Link ](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621)|
 
 ---
 
