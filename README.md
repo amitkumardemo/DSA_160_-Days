@@ -22,8 +22,8 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 
 ## 🗺️ **Roadmap**
 
-| **Phase**          | **Topics Covered**                        | **Timeline**       |  
-|---------------------|-------------------------------------------|--------------------|  
+| **Phase**          | **Topics Covered**                        | **Timeline**       |
+|---------------------|-------------------------------------------|--------------------| 
 | **Phase 1**        | Arrays: Lay the Foundation                | Days 1–13          |  
 | **Phase 2**        | Strings: Master Text Processing           | Days 14–20         |  
 | **Phase 3**        | Sorting: Organize Data Efficiently        | Days 21–27         |  
@@ -48,24 +48,26 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 ---
 # Progress Tracker: GeeksforGeeks GfG 160 Series
 
-This repository tracks my progress in solving problems from the GeeksforGeeks GfG 160 series. Below is a log of the problems solved, with brief descriptions of the approaches used and the learning outcomes.
+## 🗓️ Daily Progress
 
-## 📈 **Progress Tracker**
+| **Day** | **Topic**                                     | **Problems Solved**                      | **Notes/Comments**                                                                                        | **Links**                                                                                                 |
+|---------|-----------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 1       | Second Largest                                | Day_1_Second_Largest                     | Solved the problem of finding the second largest element in an array.                                      | [Problem Link](https://practice.geeksforgeeks.org/problems/second-largest3735/1)                           |
+| 2       | Move Zeros to End                             | Day_2_Move_All_Zeroes_to_End             | Implemented moving all zeroes to the end of the array without changing the relative order of other elements.| [Problem Link](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)           |
+| 3       | Reverse Array                                 | Day_3_Reverse_an_Array                   | Reversed the array in-place without using extra space.                                                     | [Problem Link](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)                             |
+| 4       | Rotate Array                                  | Day_4_Rotate_Array                       | Learned and implemented array rotation by `d` elements, utilizing an efficient O(n) approach.              | [Problem Link](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)         |
+| 5       | Next Permutation                              | Day_5_Next_Permutation                   | Implemented next lexicographical permutation of an array using a systematic approach.                     | [Problem Link](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)                         |
+| 6       | Majority Element II                          | Day_6_Majority_Element_II                | Identified elements appearing more than `n/3` times in an array using the Boyer-Moore Voting Algorithm.    | [Problem Link](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1)                  |
+| 7       | Stock Buy and Sell (Multiple Transactions)    | Day_7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed | Maximized profit by performing multiple buy and sell operations using a greedy approach.                    | [Problem Link](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)                |
+| 8       | Stock Buy and Sell (Max One Transaction)      | Day_8_Stock_Buy_and_Sell_Max_One_Transaction_Allowed | Implemented a solution to maximize profit with at most one buy and sell transaction using dynamic programming. | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-profit-1587115620/1)                    |
+| 9       | Minimize the Heights II                      | Day_9_Minimize_the_Heights_II            | Found the minimum possible difference between the height of the shortest and tallest towers after modification.| [Problem Link](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)                     |
+| 10      | Kadane's Algorithm                            | Day_10_Kadane's_Algorithm                | Found the maximum sum possible from all the subarrays using Kadane's algorithm.                            | [Problem Link](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)                 |
+| 11      | Maximum Product Subarray                     | Day_11_Maximum_Product_Subarray          | Found the maximum product in a subarray, accounting for positive, negative integers, and zero.             | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)                 |
+| 12      | Max Circular Subarray Sum                    | Day_12_Max_Circular_Subarray_Sum         | Found the maximum subarray sum considering the array as circular.                                          | [Problem Link](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1)         |
 
-| **Day** | **Topic**                                     | **Problems Solved**                      | **Notes/Comments**                                                                                        |
-|---------|-----------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| 1       | GfG 160 - Second Largest                      | Day_1_Second_Largest                     | Solved the problem of finding the second largest element in an array.                                      |
-| 2       | GfG 160 - Move Zeros to End                   | Day_2_Move_All_Zeroes_to_End             | Implemented moving all zeroes to the end of the array without changing the relative order of other elements.|
-| 3       | GfG 160 - Reverse Array                       | Day_3_Reverse_an_Array                   | Reversed the array in-place without using extra space.                                                     |
-| 4       | GfG 160 - Rotate Array                        | Day_4_Rotate_Array                       | Learned and implemented array rotation by `d` elements, utilizing an efficient O(n) approach.              |
-| 5       | GfG 160 - Next Permutation                     | Day_5_Next_Permutation                    | Implemented next lexicographical permutation of an array using a systematic approach.                     |
-| 6       | GfG 160 - Majority Element II                 | Day_6_Majority_Element_II                | Identified elements appearing more than `n/3` times in an array using the Boyer-Moore Voting Algorithm.    |
-| 7       | GfG 160 - Stock Buy and Sell – Multiple Transaction Allowed | Day_7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed | Maximized profit by performing multiple buy and sell operations using a greedy approach.                    |
-| 8       | GfG 160 - Stock Buy and Sell – Max One Transaction Allowed | Day_8_Stock_Buy_and_Sell_Max_One_Transaction_Allowed | Implemented a solution to maximize profit with at most one buy and sell transaction using dynamic programming. |
-|9 | GFG 160 - Minimize the Heights II | Day_9_Minimize the Heights II | Find out the minimum possible difference between the height of the shortest and tallest towers after you have modified each tower.|
-|10 | GFG 160 - Kadane's Algorithm | Day_10_Kadane's Algorithm | Given an integer array arr[]. You need to find and return the maximum sum possible from all the subarrays.|
-|11| GFG 160 - Maximum Product Subarray | Day_11_Maximum Product Subarray | Given an array arr[] that contains positive and negative integers (may contain 0 as well). Find the maximum product that we can get in a subarray of arr.|
-|12| GFG - 160 - Max Circular Subarray Sum | Day_12_Max Circular Subarray Sum |Given an array of integers arr[] in a circular fashion. Find the maximum subarray sum that we can get if we assume the array to be circular.| 
+---
+
+## 🔗 Repository Features
 
 
 
