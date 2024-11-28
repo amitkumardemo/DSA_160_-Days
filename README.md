@@ -95,6 +95,8 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 | **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
 |---------|----------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | 14      | Implement Atoi                               | Day_14_Implement Atoi                       | Implemented a custom `atoi()` function to convert a string to an integer without using built-in functions.     | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi) |
+|15 | Add Binary Strings | Day_15_Add Binary Strings | Given two binary strings s1 and s2 consisting of only 0s and 1s. Find the resultant string after adding the two Binary Strings.
+Note: The input strings may contain leading zeros but the output string should not have any leading zeros.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/add-binary-strings3805)|
 
 </p>
 
