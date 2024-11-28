@@ -49,6 +49,7 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 # Progress Tracker: GeeksforGeeks GfG 160 Series
 
 ## 🗓️ Daily Progress
+### Array Problem
 
 | **Day** | **Topic**                                     | **Problems Solved**                      | **Notes/Comments**                                                                                        | **Links**                                                                                                 |
 |---------|-----------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -65,6 +66,13 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 | 11      | Maximum Product Subarray                     | Day_11_Maximum_Product_Subarray          | Found the maximum product in a subarray, accounting for positive, negative integers, and zero.             | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)                 |
 | 12      | Max Circular Subarray Sum                    | Day_12_Max_Circular_Subarray_Sum         | Found the maximum subarray sum considering the array as circular.                                          | [Problem Link](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1)         |
 |13 | Smallest Positive Missing Number | Day_13_Smallest Positive Missing Number | You are given an integer array arr[]. Your task is to find the smallest positive number missing from the array. | [Problem Link ](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621)|
+
+### String Problem
+
+| **Day** | **Topic**                                     | **Problems Solved**                      | **Notes/Comments**                                                                                        | **Links**                                                                                                 |
+|---------|-----------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+
+|14| Implement Atoi | Day_14_Implement Atoi | Given a string s, the objective is to convert it into integer format without utilizing any built-in functions. Refer the below steps to know about atoi() function.|[Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi) |
 
 ---
 
