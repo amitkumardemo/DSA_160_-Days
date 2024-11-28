@@ -46,35 +46,52 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
   
 
 ---
-# Progress Tracker: GeeksforGeeks GfG 160 Series
+# 🚀 **Progress Tracker: GeeksforGeeks GfG 160 Series** 📈
 
-## 🗓️ Daily Progress
-### Array Problem
+## 🗓️ **Daily Progress**
 
-| **Day** | **Topic**                                     | **Problems Solved**                      | **Notes/Comments**                                                                                        | **Links**                                                                                                 |
-|---------|-----------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| 1       | Second Largest                                | Day_1_Second_Largest                     | Solved the problem of finding the second largest element in an array.                                      | [Problem Link](https://practice.geeksforgeeks.org/problems/second-largest3735/1)                           |
-| 2       | Move Zeros to End                             | Day_2_Move_All_Zeroes_to_End             | Implemented moving all zeroes to the end of the array without changing the relative order of other elements.| [Problem Link](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)           |
-| 3       | Reverse Array                                 | Day_3_Reverse_an_Array                   | Reversed the array in-place without using extra space.                                                     | [Problem Link](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)                             |
-| 4       | Rotate Array                                  | Day_4_Rotate_Array                       | Learned and implemented array rotation by `d` elements, utilizing an efficient O(n) approach.              | [Problem Link](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)         |
-| 5       | Next Permutation                              | Day_5_Next_Permutation                   | Implemented next lexicographical permutation of an array using a systematic approach.                     | [Problem Link](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)                         |
-| 6       | Majority Element II                          | Day_6_Majority_Element_II                | Identified elements appearing more than `n/3` times in an array using the Boyer-Moore Voting Algorithm.    | [Problem Link](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1)                  |
-| 7       | Stock Buy and Sell (Multiple Transactions)    | Day_7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed | Maximized profit by performing multiple buy and sell operations using a greedy approach.                    | [Problem Link](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)                |
-| 8       | Stock Buy and Sell (Max One Transaction)      | Day_8_Stock_Buy_and_Sell_Max_One_Transaction_Allowed | Implemented a solution to maximize profit with at most one buy and sell transaction using dynamic programming. | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-profit-1587115620/1)                    |
-| 9       | Minimize the Heights II                      | Day_9_Minimize_the_Heights_II            | Found the minimum possible difference between the height of the shortest and tallest towers after modification.| [Problem Link](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)                     |
-| 10      | Kadane's Algorithm                            | Day_10_Kadane's_Algorithm                | Found the maximum sum possible from all the subarrays using Kadane's algorithm.                            | [Problem Link](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)                 |
-| 11      | Maximum Product Subarray                     | Day_11_Maximum_Product_Subarray          | Found the maximum product in a subarray, accounting for positive, negative integers, and zero.             | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)                 |
-| 12      | Max Circular Subarray Sum                    | Day_12_Max_Circular_Subarray_Sum         | Found the maximum subarray sum considering the array as circular.                                          | [Problem Link](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1)         |
-|13 | Smallest Positive Missing Number | Day_13_Smallest Positive Missing Number | You are given an integer array arr[]. Your task is to find the smallest positive number missing from the array. | [Problem Link ](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621)|
+### **Array Problem** 💻
 
-### String Problem
+<p align="center">
 
-| **Day** | **Topic**                                     | **Problems Solved**                      | **Notes/Comments**                                                                                        | **Links**                                                                                                 |
-|---------|-----------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
+|---------|----------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| 1       | Second Largest                               | Day_1_Second_Largest                        | Solved the problem of finding the second largest element in an array.                                          | [Problem Link](https://practice.geeksforgeeks.org/problems/second-largest3735/1)                             |
+| 2       | Move Zeros to End                            | Day_2_Move_All_Zeroes_to_End                | Implemented moving all zeroes to the end of the array without changing the relative order of other elements. | [Problem Link](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)             |
+| 3       | Reverse Array                                | Day_3_Reverse_an_Array                      | Reversed the array in-place without using extra space.                                                          | [Problem Link](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)                               |
+| 4       | Rotate Array                                 | Day_4_Rotate_Array                          | Learned and implemented array rotation by `d` elements, utilizing an efficient O(n) approach.                 | [Problem Link](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)           |
+| 5       | Next Permutation                             | Day_5_Next_Permutation                      | Implemented the next lexicographical permutation of an array using a systematic approach.                    | [Problem Link](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)                           |
+| 6       | Majority Element II                         | Day_6_Majority_Element_II                   | Identified elements appearing more than `n/3` times in an array using the Boyer-Moore Voting Algorithm.       | [Problem Link](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1)                    |
+| 7       | Stock Buy and Sell (Multiple Transactions)   | Day_7_Stock_Buy_and_Sell_Multiple_Transaction_Allowed | Maximized profit by performing multiple buy and sell operations using a greedy approach.                       | [Problem Link](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)                  |
+| 8       | Stock Buy and Sell (Max One Transaction)     | Day_8_Stock_Buy_and_Sell_Max_One_Transaction_Allowed | Implemented a solution to maximize profit with at most one buy and sell transaction using dynamic programming.  | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-profit-1587115620/1)                      |
+| 9       | Minimize the Heights II                       | Day_9_Minimize_the_Heights_II               | Found the minimum possible difference between the height of the shortest and tallest towers after modification. | [Problem Link](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)                       |
+| 10      | Kadane's Algorithm                           | Day_10_Kadane's_Algorithm                   | Found the maximum sum possible from all the subarrays using Kadane's algorithm.                               | [Problem Link](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)                   |
+| 11      | Maximum Product Subarray                     | Day_11_Maximum_Product_Subarray             | Found the maximum product in a subarray, accounting for positive, negative integers, and zero.                | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)                   |
+| 12      | Max Circular Subarray Sum                    | Day_12_Max_Circular_Subarray_Sum            | Found the maximum subarray sum considering the array as circular.                                             | [Problem Link](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1)           |
+| 13      | Smallest Positive Missing Number             | Day_13_Smallest_Positive_Missing_Number     | Implemented an algorithm to find the smallest positive missing number in an unsorted array.                   | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621/) |
 
-|14| Implement Atoi | Day_14_Implement Atoi | Given a string s, the objective is to convert it into integer format without utilizing any built-in functions. Refer the below steps to know about atoi() function.|[Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi) |
+</p>
 
 ---
+
+### **String Problem** ✍️
+
+<p align="center">
+
+| **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
+|---------|----------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| 14      | Implement Atoi                               | Day_14_Implement Atoi                       | Implemented a custom `atoi()` function to convert a string to an integer without using built-in functions.     | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi) |
+
+</p>
+
+---
+
+Keep up the momentum and continue progressing through the **GeeksforGeeks GfG 160 Challenge**! 🚀💻
+
+---
+
+
+
 
 ## 🔗 Repository Features
 
