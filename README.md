@@ -162,8 +162,8 @@ Contributions are welcome! Here's how you can help:
 Feel free to connect for discussions or collaboration:  
 - [![LinkedIn](https://img.icons8.com/fluent/20/000000/linkedin.png)](https://www.linkedin.com/in/amit-kumar-686196225/) **LinkedIn**  
 - [![Email](https://img.icons8.com/fluent/20/000000/new-post.png)](mailto:amitk25783@gmail.com) **Email**  
-- [![GeeksforGeeks](https://img.icons8.com/color/20/000000/GeeksforGeeks.png)](https://auth.geeksforgeeks.org/user/amitk25783/) **GeeksforGeeks**  
-- [![HackerRank](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png)](https://www.hackerrank.com/amitk25783) **HackerRank**  
+- [![GeeksforGeeks](https://img.icons8.com/color/20/000000/GeeksforGeeks.png)](https://www.geeksforgeeks.org/user/lbgofficicwfy/) **GeeksforGeeks**  
+- [![HackerRank](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png)](https://www.hackerrank.com/profile/lbgofficial12345) **HackerRank**  
 
 
 ---
