@@ -105,6 +105,12 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 
 ---
 
+<p align="center" >Sorting Problem✍️</p>
+
+| **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
+|---------|----------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| 21     | Sort 0s, 1s and 2s                              | Day_21_Sort 0s, 1s and 2s                       | Given an array arr[] containing only 0s, 1s, and 2s. Sort the array in ascending order. | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/sort-an-array-of-0s-1s-and-2s4231)|
+
 Keep up the momentum and continue progressing through the **GeeksforGeeks GfG 160 Challenge**! 🚀💻
 
 ---
