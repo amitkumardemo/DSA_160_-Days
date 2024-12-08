@@ -1,0 +1,17 @@
+class Solution {
+    public List<String> camelCase(String[] arr, String pat) {
+        List<String> result = new ArrayList<>();
+        for (String word : arr) {
+            StringBuilder capitals = new StringBuilder();
+            for (char ch : word.toCharArray()) {
+                if (Character.isUpperCase(ch)) {
+                    capitals.append(ch);
+                }
+            }
+            if (capitals.toString().startsWith(pat)) {
+                result.add(word);
+            }
+        }
+        return result;
+    }
+}
