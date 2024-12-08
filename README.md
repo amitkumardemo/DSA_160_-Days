@@ -126,7 +126,22 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 
 | **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
 |---------|----------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| 21     | Sort 0s, 1s and 2s                              | Day_21_Sort 0s, 1s and 2s                       | Given an array arr[] containing only 0s, 1s, and 2s. Sort the array in ascending order. | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/sort-an-array-of-0s-1s-and-2s4231)|
+| Day_21     | Sort 0s, 1s and 2s                              | Day_21_Sort 0s, 1s and 2s                       | Given an array arr[] containing only 0s, 1s, and 2s. Sort the array in ascending order. | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/sort-an-array-of-0s-1s-and-2s4231)|
+|Day_22|Find H-Index | Day_22_Find H-Index| Given an integer array citations[], where citations[i] is the number of citations a researcher received for the ith paper. The task is to find the H-index.H-Index is the largest value such that the researcher has at least H papers that have been cited at least H times.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/find-h-index--165609)|
+|Day_23|Count Inversions | Day_23_Count Inversions | Given an array of integers arr[]. Find the Inversion Count in the array.Two elements arr[i] and arr[j] form an inversion if arr[i] > arr[j] and i < j.Inversion Count: For an array, inversion count indicates how far (or close) the array is from being sorted. If the array is already sorted then the inversion count is 0.If an array is sorted in the reverse order then the inversion count is the maximum. | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/inversion-of-array-1587115620)| | 
+|Day_24|Overlapping Intervals | Day_24_Overlapping Intervals | Given an array of Intervals arr[][], where arr[i] = [starti, endi]. The task is to merge all of the overlapping Intervals.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/overlapping-intervals--170633)|
+
+
+
+
+
+
+
+
+
+
+
+
 
 Keep up the momentum and continue progressing through the **GeeksforGeeks GfG 160 Challenge**! 🚀💻
 
