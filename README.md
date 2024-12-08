@@ -105,6 +105,23 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 
 ---
 
+### **BONUS PROBLEM STRING** 🌟
+
+<p align="center">
+
+| **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
+|---------|----------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Bonus_Problem_1** | Fizz Buzz             | Bonus_Problem_1_Fizz Buzz | Fizz Buzz Problem involves that given an integer n, for every integer 0 < i <= n, the task is to output,"FizzBuzz" if i is divisible by 3 and 5,"Fizz" if i is divisible by 3,"Buzz" if i is divisible by 5 "i" as a string, if none of the conditions are true. | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/fizz-buzz)                     |
+|**Bonus_Problem_2** | CamelCase Pattern Matching |Bonus_Problem_2_CamelCase Pattern Matching| Given a dictionary of words arr[] where each word follows CamelCase notation, print all words in the dictionary that match with a given pattern pat consisting of uppercase characters only.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/camelcase-pattern-matching2259)|
+|**Bonus_Problem_3** | Palindrome Sentence | Bonus_Problem_3_ Palindrome Sentence | Given a single string s, the task is to check if it is a palindrome sentence or not. A palindrome sentence is a sequence of characters, such as word, phrase, or series of symbols that reads the same backward as forward after converting all uppercase letters to lowercase and removing all non-alphanumeric characters.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/string-palindromic-ignoring-spaces4723)|
+|**Bonus_Problem_4** |Minimum repeat to make substrin | Bonus_Problem_4_Minimum repeat to make substring | Given two strings s1 and s2. Return a minimum number of times s1 has to be repeated such that s2 is a substring of it. If s2 can never be a substring then return -1. Note: Both the strings contain only lowercase letters.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/minimum-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it--170645)|
+|**Bonus_Problem_5** |Longest Prefix Suffix | Bonus_Problem_5_Longest Prefix Suffix | Given a string of characters s, find the length of the longest prefix which is also a suffix.Note: Prefix and suffix can be overlapping but they should not be equal to the entire string. | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/longest-prefix-suffix2527)|
+|**Bonus_Problem_6** |Integer to Words | Bonus_Problem_6_Integer to Words | Write a function to convert a given number n into words.The idea is to break down the number into International Number System, i.e., smaller groups of three digits (hundreds, tens, and ones), and convert each group into words.|[Bonus Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/number-to-words0335)|
+
+
+
+---
+
 <p align="center" >Sorting Problem✍️</p>
 
 | **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
