@@ -1,0 +1,33 @@
+class Solution {
+    String convertToWords(int n) {
+        if (n == 0) return "Zero";
+
+        String[] belowTwenty = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", 
+                                "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", 
+                                "Seventeen", "Eighteen", "Nineteen"};
+        String[] tens = {"", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
+        String[] thousands = {"", "Thousand", "Million", "Billion"};
+
+        String result = "";
+        int index = 0;
+
+        while (n > 0) {
+            if (n % 1000 != 0) {
+                result = helper(n % 1000, belowTwenty, tens) + 
+                         (thousands[index].isEmpty() ? "" : " " + thousands[index]) + 
+                         (result.isEmpty() ? "" : " " + result);
+            }
+            n /= 1000;
+            index++;
+        }
+
+        return result;
+    }
+
+    String helper(int num, String[] belowTwenty, String[] tens) {
+        if (num == 0) return "";
+        else if (num < 20) return belowTwenty[num];
+        else if (num < 100) return tens[num / 10] + (num % 10 == 0 ? "" : " " + belowTwenty[num % 10]);
+        else return belowTwenty[num / 100] + " Hundred" + (num % 100 == 0 ? "" : " " + helper(num % 100, belowTwenty, tens));
+    }
+}
