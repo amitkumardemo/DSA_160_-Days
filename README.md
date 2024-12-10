@@ -131,6 +131,9 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 |Day_23|Count Inversions | Day_23_Count Inversions | Given an array of integers arr[]. Find the Inversion Count in the array.Two elements arr[i] and arr[j] form an inversion if arr[i] > arr[j] and i < j.Inversion Count: For an array, inversion count indicates how far (or close) the array is from being sorted. If the array is already sorted then the inversion count is 0.If an array is sorted in the reverse order then the inversion count is the maximum. | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/inversion-of-array-1587115620)| | 
 |Day_24|Overlapping Intervals | Day_24_Overlapping Intervals | Given an array of Intervals arr[][], where arr[i] = [starti, endi]. The task is to merge all of the overlapping Intervals.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/overlapping-intervals--170633)|
 |Day_25| Insert Interval | Day_25_Insert Interval | Geek has an array of non-overlapping intervals intervals where intervals[i] = [starti, endi] represent the start and the end of the ith event and intervals is sorted in ascending order by starti. He wants to add a new interval newInterval= [newStart, newEnd] where newStart and newEnd represent the start and end of this interval.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/insert-interval-1666733333)|
+|Day_26| Non-overlapping Intervals | Day_26_Non-overlapping Intervals | Given a 2D array intervals[][] of representing intervals where intervals [i] = [starti, endi ]. Return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/non-overlapping-intervals)|
+
+
 
 
 
