@@ -1,0 +1,32 @@
+class Solution {
+    int search(int[] arr, int key) {
+        int low = 0, high = arr.length - 1;
+        
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            
+            if (arr[mid] == key) {
+                return mid;
+            }
+            
+            // Check if the left half is sorted
+            if (arr[low] <= arr[mid]) {
+                if (key >= arr[low] && key < arr[mid]) {
+                    high = mid - 1; // key is in the left half
+                } else {
+                    low = mid + 1; // key is in the right half
+                }
+            } 
+            // Right half is sorted
+            else {
+                if (key > arr[mid] && key <= arr[high]) {
+                    low = mid + 1; // key is in the right half
+                } else {
+                    high = mid - 1; // key is in the left half
+                }
+            }
+        }
+        
+        return -1; // key not found
+    }
+}
