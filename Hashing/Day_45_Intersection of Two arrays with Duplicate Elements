@@ -1,0 +1,21 @@
+class Solution {
+    public ArrayList<Integer> intersectionWithDuplicates(int[] a, int[] b) {
+        ArrayList<Integer> result = new ArrayList<>();
+        
+        HashMap<Integer,Integer> map = new HashMap<>();
+        
+        for(int num : a){
+            map.put(num , map.getOrDefault(num,0) + 1);
+        }
+        
+        Set<Integer> resultSet = new HashSet<>();
+        
+        for(int num : b){
+            if(map.containsKey(num) && map.get(num) > 0 && !resultSet.contains(num)){
+                result.add(num);
+                resultSet.add(num);
+            }
+        }
+        return result;
+    }
+}
