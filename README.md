@@ -144,6 +144,18 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 
 
 
+---
+
+<p align="center" >Searchine Problem✍️</p>
+
+| **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
+|---------|----------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Day_28     | Number of occurrence                             | Day_28_Number of occurrence                      | Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[].  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259)|
+| Day_28     | Number of occurrence                             | Day_28_Number of occurrence                      | Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[].  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259)|
+| Day_28     | Number of occurrence                             | Day_28_Number of occurrence                      | Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[].  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259)|
+| Day_28     | Number of occurrence                             | Day_28_Number of occurrence                      | Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[].  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259)|
+| Day_28     | Number of occurrence                             | Day_28_Number of occurrence                      | Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[].  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259)|
+| Day_28     | Number of occurrence                             | Day_28_Number of occurrence                      | Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[].  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259)|
 
 
 
