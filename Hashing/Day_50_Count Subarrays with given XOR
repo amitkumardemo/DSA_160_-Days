@@ -1,0 +1,24 @@
+class Solution {
+    public long subarrayXor(int arr[], int k) {
+        long count = 0;
+        int prefixXOR = 0;
+        HashMap<Integer, Integer> freq = new HashMap<>();
+
+        for (int num : arr) {
+            prefixXOR ^= num;
+
+            if (prefixXOR == k) {
+                count++;
+            }
+
+            int targetXOR = prefixXOR ^ k;
+            if (freq.containsKey(targetXOR)) {
+                count += freq.get(targetXOR);
+            }
+
+            freq.put(prefixXOR, freq.getOrDefault(prefixXOR, 0) + 1);
+        }
+
+        return count;
+    }
+}
