@@ -182,11 +182,11 @@ Note: In a strictly sorted matrix, each row is sorted in strictly increasing ord
 
 
 
-<p align="center" >Matrix Problem✍️</p>
+<p align="center" >Hashing Problem✍️</p>
 
 | **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
 |---------|----------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Day_42     | Allocate Minimum Pages                             | Day_42_Allocate Minimum Pages                      | You are given an array arr[] of integers, where each element arr[i] represents the number of pages in the ith book. You also have an integer k representing the number of students. The task is to allocate books to each student such tha  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/allocate-minimum-number-of-pages0937)|
+| Day_42     | Two Sum - Pair with Given Sum                             | Day_42_Two Sum - Pair with Given Sum                     | Given an array arr[] of positive integers and another integer target. Determine if there exists two distinct indices such that the sum of there elements is equals to target.  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/key-pair5616)|
 | Day_43     | Kth Missing Positive Number in a Sorted Array                            | Day_43_Kth Missing Positive Number in a Sorted Array|Given a sorted array of distinct positive integers arr[], we need to find the kth positive number that is missing from arr[].  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/kth-missing-positive-number-in-a-sorted-array)|
 
 
