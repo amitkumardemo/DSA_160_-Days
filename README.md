@@ -172,7 +172,23 @@ Welcome to the **160 Days of DSA Challenge** repository! This is a collection of
 Note: In a strictly sorted matrix, each row is sorted in strictly increasing order, and the first element of the ith row (i!=0) is greater than the last element of the (i-1)th row.| [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix-1587115621)|
 | Day_40    | Search in a sorted Matrix                           | Day_40_Search in a sorted Matrix                   | Given a strictly sorted 2D matrix mat[][] of size n x m and a number x. Find whether the number x is present in the matrix or not.
 Note: In a strictly sorted matrix, each row is sorted in strictly increasing order, and the first element of the ith row (i!=0) is greater than the last element of the (i-1)th row. | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix-1587115621)|
-| Day_41     | Aggressive Cows                             | Day_40_Aggressive Cows                      | You are given an array with unique elements of stalls[], which denote the position of a stall. You are also given an integer k which denotes the number of aggressive cows. Your task is to assign stalls to k cows such that the minimum distance between any two of them is the maximum possible.  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/aggressive-cows)|
+| Day_41     | Set Matrix Zeroes                             | Day_41_Set Matrix Zeroes                    | You are given a 2D matrix mat[][] of size n×m. The task is to modify the matrix such that if mat[i][j] is 0, all the elements in the i-th row and j-th column are set to 0 and do it in constant space complexity. | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/set-matrix-zeroes)|
+
+
+---
+
+
+
+
+
+
+<p align="center" >Sorting Problem✍️</p>
+
+| **Day** | **Topic**                                    | **Problems Solved**                         | **Notes/Comments**                                                                                           | **Links**                                                                                                    |
+|---------|----------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+
+
+
 | Day_42     | Allocate Minimum Pages                             | Day_42_Allocate Minimum Pages                      | You are given an array arr[] of integers, where each element arr[i] represents the number of pages in the ith book. You also have an integer k representing the number of students. The task is to allocate books to each student such tha  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/allocate-minimum-number-of-pages0937)|
 | Day_43     | Kth Missing Positive Number in a Sorted Array                            | Day_43_Kth Missing Positive Number in a Sorted Array|Given a sorted array of distinct positive integers arr[], we need to find the kth positive number that is missing from arr[].  | [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/kth-missing-positive-number-in-a-sorted-array)|
 
