@@ -1,4 +1,4 @@
-# 🌟 160 Days of DSA with GeeksforGeeks 🚀  
+# 🌟 160 Days of DSA with GeeksforGeeks🚀  
 
 [![DSA Progress](https://img.shields.io/badge/DSA-Progress-green)](#)  
 [![Languages](https://img.shields.io/badge/Language-Java-blue)](#)
