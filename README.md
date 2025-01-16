@@ -8,7 +8,7 @@
 
 ## 📌 **Overview**
 
-Welcome to the **160 Days of DSA Challenge** repository! This is a collection of my solutions to GeeksforGeeks DSA problems following their **160-day structured roadmap**. The aim is to build a solid foundation in **Data Structures and Algorithms (DSA)** while preparing for competitive programming and technical interviews.
+Welcome to the **160 Days of DSA Challenge** repository! This is a collection of my solutions to GeeksforGeeks DSA problems following their **160-day structured roadmap**. The aim is to build a solid foundation in **Data Structures and Algorithms (DSA)** while preparing for competitive programming and technical interviews
 
 ---
 
