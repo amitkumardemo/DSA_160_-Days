@@ -2,7 +2,7 @@
 
 [![DSA Progress](https://img.shields.io/badge/DSA-Progress-green)](#)  
 [![Languages](https://img.shields.io/badge/Language-Java-blue)](#)
-[![License](https://img.shields.io/github/license/amitkumardemo/160-days-of-dsa)](#).
+[![License](https://img.shields.io/github/license/amitkumardemo/160-days-of-dsa)](#)
 
 ---
 
